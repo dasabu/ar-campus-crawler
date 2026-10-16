@@ -1,0 +1,13 @@
+{
+    "reception": "a1",
+    "learning-common": "a2 a4 a8 a21",
+    "learning-common-247": "a3",
+    "group-discussion-room": "a5 a6",
+    "learning-theatre": "a7",
+    "maclab": "a23",
+    "writing-lab": "a27",
+    "studio-1": "a24",
+    "studio-2": "a25",
+    "garden": "a9",
+    "rooftop-garden": "a28"
+}
